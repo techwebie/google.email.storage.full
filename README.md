@@ -1,6 +1,6 @@
 # Google email storage full
 
-[![Google email storage full](blue.png)](https://github.com/techwebie/google.email.storage.full/)
+[![Google email storage full](blue.png)](https://icncomputer.com/google-email-storage-full/)
 
 According to Google, 15 GB of free storage space is more than enough for an average person who deals with emails on a regular basis. Usually, people are not aware of why their Gmail account is full quota exceeded. The major reason behind when your Gmail inbox full not receiving emails is that you have exceeded the storage capacity. So, individuals want to know how to overcome this problem – “Gmail is full what to do”. Are you also wondering how to resolve Gmail mailbox full error? If yes, then read this blog to understand the solution to this issue.
 
